@@ -5,8 +5,10 @@ We are going to analyse climate data using Python, SQLAlchemy, Pandas, and Matpl
 
 ## Results: 
 After summarizing the data using describe, we find out that:
--   June: The average temperature was ~75F with a large variation from 64F to 85F during the month. ![June Temps](Resources/june_temp.png)
--   December: The average temperature was ~71F with an even large variation from 56F to 83F during the month. ![June Temps](Resources/dec_temp.png)
+-   June: The average temperature was ~75F with a large variation from 64F to 85F during the month. 
+![June Temps](Resources/jun_temp.png)
+-   December: The average temperature was ~71F with an even large variation from 56F to 83F during the month. 
+![June Temps](Resources/dec_temp.png)
 -   Majority of obersvations were between 73F and 77F for June and 69F and 74F for December.
 
 ## Summary: 
